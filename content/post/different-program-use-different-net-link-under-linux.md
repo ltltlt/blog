@@ -7,6 +7,7 @@ categories: [Nginx]
 ## Why
 
   Sometimes, you may want your program use one specific net device, because your net devices have different network access abilities.
+  <!--more-->
   For me, I have two demands:
 
   1. I want to use IRC in company network, and i don't want company to know that(i need to connect to irc.freenode.net, and IRC uses unique(?) data). But for some program, it need company's network to access company's intranet.

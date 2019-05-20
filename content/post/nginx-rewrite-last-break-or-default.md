@@ -8,6 +8,9 @@ categories: [Nginx]
 ## 前言
 
   最近了解了一些nginx的知识，上网查看了一些资料，特此做一些分享。  
+
+  <!--more-->
+
   这篇博客不会特别说到nginx配置的执行过程和nginx里的变量，如果有需要了解，可参考:
   [agentzh 的 Nginx 教程](https://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)。  
   这篇博客里的许多推导也来自上面的链接，如果有误，请与我联系。

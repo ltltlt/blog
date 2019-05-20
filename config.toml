@@ -16,7 +16,7 @@ pygmentsCodefencesGuessSyntax = true
 
 hasCJKLanguage = true
 paginate = 5                                              # 首页每页显示的文章数
-disqusShortname = "forkexec"
+disqusShortname = "ltltlt-github-io"
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓
 
@@ -49,8 +49,13 @@ copyright = ""            # default: author.name ↓
   identifier = "categories"
   url = "/categories/"
 [[menu.main]]
-  name = "About"
+  name = "Poems"
   weight = 50
+  identifier = "poems"
+  url = "/poem/"
+[[menu.main]]
+  name = "About"
+  weight = 60
   identifier = "about"
   url = "/about/"
 
