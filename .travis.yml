@@ -2,7 +2,9 @@ sudo: false
 language: go
 git:
     depth: 2
-install: go get -v github.com/gohugoio/hugo
+install:
+    - go get -v github.com/gohugoio/hugo
+    - go install -v github.com/gohugoio/hugo
 script:
     ‐ hugo
 deploy:
