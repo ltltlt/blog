@@ -18,3 +18,4 @@ deploy:
     target_branch: master
     email: liuty196888@gmail.com
     name: ltltlt
+    keep_history: true
