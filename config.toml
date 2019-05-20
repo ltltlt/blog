@@ -20,6 +20,8 @@ disqusShortname = ""      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓
 
+disqusShortname = "forkexec"
+
 [author]                  # essential
   name = "ltltlt"
 
@@ -122,12 +124,6 @@ copyright = ""            # default: author.name ↓
     enable = false
     hint = 30               # Display hint if the last modified time is more than these days ago.
     warn = 180              # Display warning if the last modified time is more than these days ago.
-
-  [params.gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
-    owner = "ltltlt"              # Your GitHub ID
-    repo = "blog-comment"               # The repo to store comments
-    clientId = "885dcab084f1bea14174"           # Your client ID
-    clientSecret = "1464f3cc536560f3479e9d2fbc3d95cd508f0e0a"       # Your client secret
 
   [params.flowchartDiagrams]# see https://blog.olowolo.com/example-site/post/js-flowchart-diagrams/
     enable = false
