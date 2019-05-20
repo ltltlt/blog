@@ -16,11 +16,9 @@ pygmentsCodefencesGuessSyntax = true
 
 hasCJKLanguage = true
 paginate = 5                                              # 首页每页显示的文章数
-disqusShortname = ""      # disqus_shortname
+disqusShortname = "forkexec"
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓
-
-disqusShortname = "forkexec"
 
 [author]                  # essential
   name = "ltltlt"
