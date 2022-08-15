@@ -6,12 +6,12 @@ date: 2018-06-21
 
 ## About me
 
-- Age
-  - 22
+- Who
+  - Poet
+  - Programmer
+
 - From
-  - Beijing, China
-- Prefered language
-  - Golang, Python
+  - Suzhou, China
 - Computer
   - ChromeBook
 - Editor
