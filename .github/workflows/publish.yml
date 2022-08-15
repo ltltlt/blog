@@ -29,6 +29,6 @@ jobs:
         if: github.ref == 'refs/heads/master'
         with:
           external_repository: ltltlt/ltltlt.github.io
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: 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
           publish_dir: ./public
           publish_branch: master
